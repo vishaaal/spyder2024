@@ -31,8 +31,8 @@ const Bottom = () => {
          </div>
          </div>
         <div className="basis-2/3 p-6">
-          <div className="p-5 font-semibold">What should I do on my first trip to Rome?</div>
-          <div className="p-5 ">
+          <div className="p-5 font-semibold border-2 rounded-lg my-3">What should I do on my first trip to Rome?</div>
+          <div className="p-5 border-2 rounded-lg my-3 ">
             <div className="font-semibold">What are some hidden gems to see in Rome</div>
             <div>
               Rome is packed with hidden gems. If you love art, don't miss the
@@ -44,9 +44,9 @@ const Bottom = () => {
               of history and ambiance.
             </div>
           </div >
-          <div className="p-5 font-semibold">How much time should I spend in Rome?</div>
-          <div className="p-5 font-semibold">What food is Rome known for?</div>
-          <div className="p-5 font-semibold">What is the best way to get around Rome?</div>
+          <div className="p-5 font-semibold border-2 rounded-lg my-3">How much time should I spend in Rome?</div>
+          <div className="p-5 font-semibold border-2 rounded-lg my-3">What food is Rome known for?</div>
+          <div className="p-5 font-semibold border-2 rounded-lg my-3" >What is the best way to get around Rome?</div>
         </div>
       </div>
   );
