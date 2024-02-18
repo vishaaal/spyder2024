@@ -5,7 +5,7 @@ const Hero3 = () => {
   return (
     <div className="flex p-6 m-2">
       <div className="basis-3/5">
-        <div className="text-7xl font-bold py-3 py-3">
+        <div className="text-6xl font-bold py-3 py-3">
           Get all the tools your
           <br /> team needs
         </div>

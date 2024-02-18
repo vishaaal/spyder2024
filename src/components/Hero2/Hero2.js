@@ -18,7 +18,7 @@ const Hero2 = () => {
         </div>
       </div>
       <div className="basis-1/2">
-        <div className="text-7xl font-bold py-3">
+        <div className="text-6xl font-bold py-3">
           Enjoy your time
           <br /> working
         </div>
