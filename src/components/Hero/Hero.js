@@ -11,7 +11,7 @@ const Hero = () => {
     <div className="flex p-6 m-2 justify-between">
       <div className="basis-3/5"> 
         <div className="text-7xl font-bold py-3">Team projects,<br/> done well</div>
-        <div className="text-3xl text-slate-500 py-3">
+        <div className="text-xl text-slate-500 py-3">
           The only platform that gives all your team all the tools needed to
           work together on their awesome projects
         </div>
