@@ -5,7 +5,7 @@ import "./Navbar.css";
 const Navbar = () => {
   return (
     <nav className="flex h-16 p-6 justify-between ">
-      <div className="text-3xl logo">magnifico</div>
+      <div className="text-3xl logo"><Link to="/">magnifico </Link></div>
       <div className="flex">
         <div className="px-3">
           Products <i class='bx bx-chevron-down'></i>

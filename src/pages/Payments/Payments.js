@@ -1,9 +1,10 @@
-import React from 'react'
+import React from "react";
+import Top from "./Top";
 
 const Payments = () => {
   return (
-    <div>Payments</div>
-  )
-}
+    <Top/>
+  );
+};
 
-export default Payments
+export default Payments;
